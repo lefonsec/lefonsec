@@ -1,7 +1,7 @@
 ### Oi eu sou o Leonardo Fonseca 👋
 
 - 🔭 Hoje trabalho com Backend
-- 🌱 Estudando Spring boot e Angular 
+- 🌱 Estudando Andoid com Kotlin e Java, Spring boot
 - 📫 Contate-me no email: leofonseca.magalhaes@gmail.com
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
